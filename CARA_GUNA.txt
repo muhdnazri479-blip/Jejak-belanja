@@ -1,0 +1,11 @@
+JEJAK BELANJA - PWA
+
+Penting: Untuk ikon khas dan pemasangan seperti aplikasi, fail ini perlu dihoskan melalui HTTPS. Membuka index.html terus sebagai file:// mungkin tidak mengaktifkan manifest atau service worker.
+
+Cara pasang selepas dihoskan:
+Android (Chrome/Edge): Buka pautan > menu browser > Add to Home screen / Install app.
+iPhone (Safari): Buka pautan > Share > Add to Home Screen.
+
+Jika shortcut lama masih menggunakan ikon default, padam shortcut lama dan tambah semula selepas versi PWA dibuka.
+
+Data transaksi kekal disimpan dalam browser peranti. Gunakan fungsi Backup dalam Tetapan secara berkala.
